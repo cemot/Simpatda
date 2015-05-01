@@ -98,7 +98,7 @@
                                                 <div class="space-4"></div>
                                             </fieldset>
                                         </form>
-
+                                        <!--        
                                         <h4 class="blue">&copy; Elsofinar by Afes Oktavianus</h4>
                                         <div class="social-or-login center">
                                                 <span class="bigger-110">Contact Person</span>
@@ -119,8 +119,9 @@
                                                         <i class="ace-icon fa fa-google-plus"></i>
                                                 </a>
                                         </div>
+                                        -->
                                 </div><!-- /.widget-main -->
-
+                                <!--    
                                 <div class="toolbar clearfix">
                                         <div>
                                                 <a href="forgot.php" class="forgot-password-link">
@@ -136,6 +137,7 @@
                                                 </a>
                                         </div>
                                 </div>
+                                -->
                             </div><!-- /.widget-body -->
                         </div><!-- /.login-box -->
 
