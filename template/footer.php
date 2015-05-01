@@ -1,16 +1,32 @@
-<!--
-To change this template, choose Tools | Templates
-and open the template in the editor.
--->
-<!DOCTYPE html>
-<html>
-    <head>
-        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title></title>
-    </head>
-    <body>
-        <?php
-        // put your code here
-        ?>
-    </body>
-</html>
+
+<div class="footer">
+    <div class="footer-inner">
+        <div class="footer-content">
+            <span class="bigger-120">
+                    <span class="blue bolder">SIMPATDA</span>
+                    &copy; 2015-2016 sanayaCorp
+            </span>
+
+&nbsp; &nbsp;
+            <span class="action-buttons">
+                    <a href="https://twitter.com/portgazandez">
+                            <i class="ace-icon fa fa-twitter-square light-blue bigger-150"></i>
+                    </a>
+
+                    <a href="http://www.facebook.com/andeztea">
+                            <i class="ace-icon fa fa-facebook-square text-primary bigger-150"></i>
+                    </a>
+
+                    <a href="#">
+                            <i class="ace-icon fa fa-rss-square orange bigger-150"></i>
+                    </a>
+            </span>
+        </div>
+    </div>
+</div>
+
+<a href="#" id="btn-scroll-up" class="btn-scroll-up btn btn-sm btn-inverse">
+	<i class="ace-icon fa fa-angle-double-up icon-only bigger-110"></i>
+</a>
+</div><!-- /.main-container -->
+
