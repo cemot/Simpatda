@@ -2,7 +2,7 @@
     session_start();
     error_reporting(0);
     include "config/timeout.php";
-    include "config/koneksi.php";
+    include "config/functions.inc";
     include "config/fungsi_ago.php";
     include "config/fungsi_indotgl.php";
 

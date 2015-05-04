@@ -169,7 +169,7 @@
 <script src="assets/js/jquery.validate.min.js"></script>
 
 <!-- <![endif]-->
-<?php include "config/fungsi_login.php" ?>
+<?php include "controller/function_login.php" ?>
 <!--[if IE]>
 <script src="assets/js/jquery.1.11.1.min.js"></script>
 <![endif]-->

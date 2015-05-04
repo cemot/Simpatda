@@ -120,7 +120,7 @@
                     <ul class="submenu">
                         <li class="">
                             <a href="#">
-                                <i class="menu-icon fa fa-caret-right"></i>
+                                <i class="menu-text fa fa-caret-right"></i>
                                 Tambah Organisasi
                             </a>
                             
@@ -129,7 +129,7 @@
                         
                         <li class="">
                             <a href="#">
-                                <i class="menu-icon fa fa-caret-right"></i>
+                                <i class="menu-text fa fa-caret-right"></i>
                                 Daftar Organisasi
                             </a>
                             
