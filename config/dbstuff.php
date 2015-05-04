@@ -10,4 +10,13 @@
     define("DBPASS", "revisoft012686");
     define("DB", "sny_simpatda");
     
+    $dbcon = mysql_connect(DBHOST,DBUSER,DBPASS);
+    if ($dbcon){        
+        if (!mysql_select_db(DB)) {
+            die ('<p>Gagal Akses Basis Data Karena : '.mysql_error().'</p>');
+        }
+    } else {
+        echo "Koneksi Database Gagal".mysql_error();
+    }
+        
 ?>

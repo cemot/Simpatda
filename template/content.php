@@ -65,89 +65,68 @@
 		
 
             <li class="">
-                    <a href="?id=wilayah">
-                            <i class="menu-icon fa fa-caret-right"></i>
-                            Data Wilayah
-                    </a>
+                <a href="?id=wilayah">
+                        <i class="menu-icon fa fa-caret-right"></i>
+                        Data Wilayah
+                </a>
 
-                    <b class="arrow"></b>
+                <b class="arrow"></b>
             </li>
 
             <li class="">
-                    <a href="?id=jenis_usaha">
-                            <i class="menu-icon fa fa-caret-right"></i>
-                            Data Jenis Usaha
-                    </a>
+                <a href="?id=jenis_usaha">
+                        <i class="menu-icon fa fa-caret-right"></i>
+                        Data Jenis Usaha
+                </a>
 
-                    <b class="arrow"></b>
+                <b class="arrow"></b>
             </li>            
             
             <li class="">
-                    <a href="?id=rumus_reklame">
-                            <i class="menu-icon fa fa-caret-right"></i>
-                            Rumus Reklame
-                    </a>
+                <a href="?id=rumus_reklame">
+                        <i class="menu-icon fa fa-caret-right"></i>
+                        Rumus Reklame
+                </a>
 
-                    <b class="arrow"></b>
+                <b class="arrow"></b>
             </li>
             
             <li class="">
-                    <a href="?id=absen">
-                            <i class="menu-icon fa fa-caret-right"></i>
-                            Rekening
-                    </a>
+                <a href="?id=absen">
+                        <i class="menu-icon fa fa-caret-right"></i>
+                        Rekening
+                </a>
 
-                    <b class="arrow"></b>
+                <b class="arrow"></b>
             </li>
 
             <li class="">
-                    <a href="#">
-                            <i class="menu-icon fa fa-caret-right"></i>
-                            Beban Pajak
-                    </a>
+                <a href="#">
+                        <i class="menu-icon fa fa-caret-right"></i>
+                        Beban Pajak
+                </a>
 
-                    <b class="arrow"></b>
+                <b class="arrow"></b>
             </li>
 
             <li class="">
-                    <a href="#" class="dropdown-toggle">
-                            <i class="menu-text fa fa-caret-right"></i>
-                            Data Organisasi
-                    </a>
-                    
-                    <b class="arrow"></b>
-                    
-                    <ul class="submenu">
-                        <li class="">
-                            <a href="#">
-                                <i class="menu-text fa fa-caret-right"></i>
-                                Tambah Organisasi
-                            </a>
-                            
-                            <b class="arrow"></b>
-                        </li>
+                <a href="#">
+                        <i class="menu-icon fa fa-caret-right"></i>
+                        Data Organisasi
+                </a>                                        
+                <b class="arrow"></b>
+            </li>
                         
-                        <li class="">
-                            <a href="#">
-                                <i class="menu-text fa fa-caret-right"></i>
-                                Daftar Organisasi
-                            </a>
-                            
-                            <b class="arrow"></b>
-                        </li>
-                    </ul>
-                    <b class="arrow"></b>
+            
+            <li class="">
+                <a href="?id=pegawai">
+                        <i class="menu-icon fa fa-caret-right"></i>
+                        Data Pegawai
+                </a>
+
+                <b class="arrow"></b>
             </li>
             <!--
-            <li class="">
-                    <a href="?id=bank">
-                            <i class="menu-icon fa fa-caret-right"></i>
-                            Bank Transfer
-                    </a>
-
-                    <b class="arrow"></b>
-            </li>
-
             <li class="">
                     <a href="treeview.html">
                             <i class="menu-icon fa fa-caret-right"></i>
