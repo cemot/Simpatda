@@ -74,7 +74,7 @@
             </li>
 
             <li class="">
-                <a href="?id=jenis_usaha">
+                <a href="?id=jenis-usaha">
                         <i class="menu-icon fa fa-caret-right"></i>
                         Data Jenis Usaha
                 </a>

@@ -64,15 +64,15 @@
         $ambiljs3	= "assets/js/jquery.hotkeys.min.js";
         $ambiljs4	= "assets/js/bootstrap-wysiwyg.min.js";
         $ambilfungsi	= "config/fungsi_inbox.php";
-    } elseif ($id == "jabatan") {
-        $nav 		= "Referensi Jabatan";
-        $ambil 		= "ref/jab.php";
+    } elseif ($id == "wilayah") {
+        $nav 		= "Referensi Wilayah";
+        $ambil 		= "master/wilayah/list.php";
         $ambilcss1	= "";
         $ambiljs0	= "assets/js/jquery-1.8.3.min.js";
         $ambiljs1	= "assets/js/jab.js";
-    } elseif ($id == "agama") {
-        $nav            = "Referensi Agama";
-        $ambil          = "ref/t_agama.php";
+    } elseif ($id == "jenis-usaha") {
+        $nav            = "Referensi Jenis Usaha";
+        $ambil          = "master/jenis_usaha/list.php";
         $ambiljs0	= "assets/js/jquery.2.1.1.min.js";
     } elseif ($id == "statusp") {
         $nav            = "Referensi Status Pegawai";
