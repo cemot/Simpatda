@@ -31,14 +31,16 @@
                     Print
                 </button>
 
-                <a href="?id=jabatan" class="btn btn-app btn-success btn-xs">
+                <a href="?id=jenis-usaha" class="btn btn-app btn-success btn-xs">
                     <i class="ace-icon fa fa-refresh bigger-160"></i>
                     Refresh
                 </a>
           </div>
           
           <!-- tempat untuk menampilkan data wilayah -->
-          <div id="data-wil"></div>
+          <div id="data-wil">
+              <?php include 'jUsahaData.php'; ?>
+          </div>            
           </thead>
           
           <!-- awal untuk modal dialog -->
